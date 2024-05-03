@@ -1,0 +1,2 @@
+# bot
+tanpa token
